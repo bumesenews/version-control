@@ -1,9 +1,10 @@
 {
-  "latestVersion": "1.2.0",
-  "minVersion": "1.1.0",
-  "forceUpdate": false,
-  "updateMessage": "A new version is available with improvements and bug fixes.",
-  "playStoreUrl": "https://play.google.com/store/apps/details?id=your.package.name",
-  "facebookUrl":"https://www.facebook.com/share/1GJ6hHFADe/",
-  "telegramUrl":""
-}
+  "change":false,
+  "con":false,
+  "title": "Temporary Server Error",
+  "subtitle": "Please Update Burmese Stream Player",
+  "link": "https://play.google.com/store/apps/details?id=com.example.com",
+  "uriversion": "1.0.0",
+  "uriversionDetails": "Ui fix So Please Update",
+  "facebook":"https://www.facebook.com/share/1DFpvPzLhx/",
+  "telegram":"https://t.me/movies_free_trailers"}
