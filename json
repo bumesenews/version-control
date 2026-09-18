@@ -1,5 +1,5 @@
 {
-  "change": false,
+  "change": true,
   "con": false,
   "title": "Temporary Server Error",
   "subtitle": "Please Update Burmese Stream Player",
@@ -8,5 +8,5 @@
   "uriversionDetails": "Ui fix a little",
   "facebook": "https://www.facebook.com/share/1cQtGLvaQV/",
   "telegram": "https://t.me/burmesestreamplayer",
-  "key":"d439f3a2a96dee77b9fc5141dbec46053ecf3d928465725d1e7bafe7e758b59e"
+  "key": ""
 }
